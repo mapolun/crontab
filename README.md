@@ -1,10 +1,10 @@
 # crontab
-##### 轻量的定时任务骨架
+##### 轻量的定时任务骨架，遵循psr-4规则
 
 * EasySwoole
 * PHP >= 7.0
 
-## 1.创建脚本
+## 1.创建脚本   
 在class目录下创建Foo.php，每个脚本继承Base类
 ```php
 class Foo extends Base
