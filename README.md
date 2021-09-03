@@ -1,7 +1,5 @@
 # crontab
 ##### 轻量的定时任务骨架，遵循psr-4规范
-
-* EasySwoole
 * PHP >= 7.0
 
 ## 1.创建脚本   
